@@ -1,0 +1,47 @@
+{
+    "system_performance": [
+      {
+        "timestamp": "2024-04-07T12:00:00Z",
+        "cpu_utilization_percent": 75,
+        "memory_usage_percent": 60,
+        "disk_usage_percent": 40,
+        "network_traffic_in_Mega_bytes": 50
+      },
+      {
+        "timestamp": "2024-04-07T12:05:00Z",
+        "cpu_utilization_percent": 80,
+        "memory_usage_percent": 65,
+        "disk_usage_percent": 45,
+        "network_traffic_in_Mega_bytes": 55
+      },
+      {
+        "timestamp": "2024-04-07T12:10:00Z",
+        "cpu_utilization_percent": 70,
+        "memory_usage_percent": 55,
+        "disk_usage_percent": 35,
+        "network_traffic_in_Mega_bytes": 48
+      },
+      {
+        "timestamp": "2024-04-07T12:15:00Z",
+        "cpu_utilization_percent": 85,
+        "memory_usage_percent": 70,
+        "disk_usage_percent": 50,
+        "network_traffic_in_Mega_bytes": 60
+      },
+      {
+        "timestamp": "2024-04-07T12:20:00Z",
+        "cpu_utilization_percent": 90,
+        "memory_usage_percent": 75,
+        "disk_usage_percent": 55,
+        "network_traffic_in_Mega_bytes": 62
+      },
+      {
+        "timestamp": "2024-04-07T12:25:00Z",
+        "cpu_utilization_percent": 75,
+        "memory_usage_percent": 60,
+        "disk_usage_percent": 40,
+        "network_traffic_in_Mega_bytes": 50
+      }
+    ]
+  }
+  
